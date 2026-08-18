@@ -1,0 +1,1862 @@
+{
+  "sample_rate": 24000,
+  "keys": {
+    "a": [
+      {
+        "file": "a/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter A",
+        "source": "tts"
+      },
+      {
+        "file": "a/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "a as in cat",
+        "source": "tts"
+      },
+      {
+        "file": "a/02_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "a as in cake",
+        "source": "tts"
+      },
+      {
+        "file": "a/03_word_apple.wav",
+        "kind": "word",
+        "label": "apple",
+        "hint": "apple",
+        "source": "human",
+        "word": "apple"
+      },
+      {
+        "file": "a/04_word_ant.wav",
+        "kind": "word",
+        "label": "ant",
+        "hint": "ant",
+        "source": "human",
+        "word": "ant"
+      },
+      {
+        "file": "a/05_word_alligator.wav",
+        "kind": "word",
+        "label": "alligator",
+        "hint": "alligator",
+        "source": "human",
+        "word": "alligator"
+      }
+    ],
+    "b": [
+      {
+        "file": "b/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter B",
+        "source": "tts"
+      },
+      {
+        "file": "b/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "b as in ball",
+        "source": "tts"
+      },
+      {
+        "file": "b/02_word_ball.wav",
+        "kind": "word",
+        "label": "ball",
+        "hint": "ball",
+        "source": "human",
+        "word": "ball"
+      },
+      {
+        "file": "b/03_word_bear.wav",
+        "kind": "word",
+        "label": "bear",
+        "hint": "bear",
+        "source": "human",
+        "word": "bear"
+      },
+      {
+        "file": "b/04_word_banana.wav",
+        "kind": "word",
+        "label": "banana",
+        "hint": "banana",
+        "source": "human",
+        "word": "banana"
+      }
+    ],
+    "c": [
+      {
+        "file": "c/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter C",
+        "source": "tts"
+      },
+      {
+        "file": "c/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "c as in cat",
+        "source": "tts"
+      },
+      {
+        "file": "c/02_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "c as in city",
+        "source": "tts"
+      },
+      {
+        "file": "c/03_word_cat.wav",
+        "kind": "word",
+        "label": "cat",
+        "hint": "cat",
+        "source": "human",
+        "word": "cat"
+      },
+      {
+        "file": "c/04_word_cup.wav",
+        "kind": "word",
+        "label": "cup",
+        "hint": "cup",
+        "source": "human",
+        "word": "cup"
+      },
+      {
+        "file": "c/05_word_car.wav",
+        "kind": "word",
+        "label": "car",
+        "hint": "car",
+        "source": "human",
+        "word": "car"
+      }
+    ],
+    "d": [
+      {
+        "file": "d/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter D",
+        "source": "tts"
+      },
+      {
+        "file": "d/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "d as in dog",
+        "source": "tts"
+      },
+      {
+        "file": "d/02_word_dog.wav",
+        "kind": "word",
+        "label": "dog",
+        "hint": "dog",
+        "source": "human",
+        "word": "dog"
+      },
+      {
+        "file": "d/03_word_duck.wav",
+        "kind": "word",
+        "label": "duck",
+        "hint": "duck",
+        "source": "human",
+        "word": "duck"
+      },
+      {
+        "file": "d/04_word_door.wav",
+        "kind": "word",
+        "label": "door",
+        "hint": "door",
+        "source": "human",
+        "word": "door"
+      }
+    ],
+    "e": [
+      {
+        "file": "e/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter E",
+        "source": "tts"
+      },
+      {
+        "file": "e/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "e as in bed",
+        "source": "tts"
+      },
+      {
+        "file": "e/02_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "e as in me",
+        "source": "tts"
+      },
+      {
+        "file": "e/03_word_egg.wav",
+        "kind": "word",
+        "label": "egg",
+        "hint": "egg",
+        "source": "human",
+        "word": "egg"
+      },
+      {
+        "file": "e/04_word_elephant.wav",
+        "kind": "word",
+        "label": "elephant",
+        "hint": "elephant",
+        "source": "human",
+        "word": "elephant"
+      },
+      {
+        "file": "e/05_word_elbow.wav",
+        "kind": "word",
+        "label": "elbow",
+        "hint": "elbow",
+        "source": "human",
+        "word": "elbow"
+      }
+    ],
+    "f": [
+      {
+        "file": "f/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter F",
+        "source": "tts"
+      },
+      {
+        "file": "f/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "f as in fish",
+        "source": "tts"
+      },
+      {
+        "file": "f/02_word_fish.wav",
+        "kind": "word",
+        "label": "fish",
+        "hint": "fish",
+        "source": "human",
+        "word": "fish"
+      },
+      {
+        "file": "f/03_word_frog.wav",
+        "kind": "word",
+        "label": "frog",
+        "hint": "frog",
+        "source": "human",
+        "word": "frog"
+      },
+      {
+        "file": "f/04_word_flower.wav",
+        "kind": "word",
+        "label": "flower",
+        "hint": "flower",
+        "source": "human",
+        "word": "flower"
+      }
+    ],
+    "g": [
+      {
+        "file": "g/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter G",
+        "source": "tts"
+      },
+      {
+        "file": "g/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "g as in goat",
+        "source": "tts"
+      },
+      {
+        "file": "g/02_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "g as in giraffe",
+        "source": "tts"
+      },
+      {
+        "file": "g/03_word_goat.wav",
+        "kind": "word",
+        "label": "goat",
+        "hint": "goat",
+        "source": "human",
+        "word": "goat"
+      },
+      {
+        "file": "g/04_word_girl.wav",
+        "kind": "word",
+        "label": "girl",
+        "hint": "girl",
+        "source": "human",
+        "word": "girl"
+      },
+      {
+        "file": "g/05_word_green.wav",
+        "kind": "word",
+        "label": "green",
+        "hint": "green",
+        "source": "human",
+        "word": "green"
+      }
+    ],
+    "h": [
+      {
+        "file": "h/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter H",
+        "source": "tts"
+      },
+      {
+        "file": "h/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "h as in hat",
+        "source": "tts"
+      },
+      {
+        "file": "h/02_word_hat.wav",
+        "kind": "word",
+        "label": "hat",
+        "hint": "hat",
+        "source": "human",
+        "word": "hat"
+      },
+      {
+        "file": "h/03_word_house.wav",
+        "kind": "word",
+        "label": "house",
+        "hint": "house",
+        "source": "human",
+        "word": "house"
+      },
+      {
+        "file": "h/04_word_horse.wav",
+        "kind": "word",
+        "label": "horse",
+        "hint": "horse",
+        "source": "human",
+        "word": "horse"
+      }
+    ],
+    "i": [
+      {
+        "file": "i/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter I",
+        "source": "tts"
+      },
+      {
+        "file": "i/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "i as in sit",
+        "source": "tts"
+      },
+      {
+        "file": "i/02_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "i as in bike",
+        "source": "tts"
+      },
+      {
+        "file": "i/03_word_igloo.wav",
+        "kind": "word",
+        "label": "igloo",
+        "hint": "igloo",
+        "source": "tts",
+        "word": "igloo"
+      },
+      {
+        "file": "i/04_word_insect.wav",
+        "kind": "word",
+        "label": "insect",
+        "hint": "insect",
+        "source": "human",
+        "word": "insect"
+      },
+      {
+        "file": "i/05_word_ink.wav",
+        "kind": "word",
+        "label": "ink",
+        "hint": "ink",
+        "source": "human",
+        "word": "ink"
+      }
+    ],
+    "j": [
+      {
+        "file": "j/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter J",
+        "source": "tts"
+      },
+      {
+        "file": "j/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "j as in jump",
+        "source": "tts"
+      },
+      {
+        "file": "j/02_word_jump.wav",
+        "kind": "word",
+        "label": "jump",
+        "hint": "jump",
+        "source": "human",
+        "word": "jump"
+      },
+      {
+        "file": "j/03_word_jar.wav",
+        "kind": "word",
+        "label": "jar",
+        "hint": "jar",
+        "source": "human",
+        "word": "jar"
+      },
+      {
+        "file": "j/04_word_juice.wav",
+        "kind": "word",
+        "label": "juice",
+        "hint": "juice",
+        "source": "human",
+        "word": "juice"
+      }
+    ],
+    "k": [
+      {
+        "file": "k/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter K",
+        "source": "tts"
+      },
+      {
+        "file": "k/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "k as in kite",
+        "source": "tts"
+      },
+      {
+        "file": "k/02_word_kite.wav",
+        "kind": "word",
+        "label": "kite",
+        "hint": "kite",
+        "source": "human",
+        "word": "kite"
+      },
+      {
+        "file": "k/03_word_key.wav",
+        "kind": "word",
+        "label": "key",
+        "hint": "key",
+        "source": "human",
+        "word": "key"
+      },
+      {
+        "file": "k/04_word_king.wav",
+        "kind": "word",
+        "label": "king",
+        "hint": "king",
+        "source": "human",
+        "word": "king"
+      }
+    ],
+    "l": [
+      {
+        "file": "l/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter L",
+        "source": "tts"
+      },
+      {
+        "file": "l/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "l as in lion",
+        "source": "tts"
+      },
+      {
+        "file": "l/02_word_lion.wav",
+        "kind": "word",
+        "label": "lion",
+        "hint": "lion",
+        "source": "human",
+        "word": "lion"
+      },
+      {
+        "file": "l/03_word_leaf.wav",
+        "kind": "word",
+        "label": "leaf",
+        "hint": "leaf",
+        "source": "human",
+        "word": "leaf"
+      },
+      {
+        "file": "l/04_word_lamp.wav",
+        "kind": "word",
+        "label": "lamp",
+        "hint": "lamp",
+        "source": "human",
+        "word": "lamp"
+      }
+    ],
+    "m": [
+      {
+        "file": "m/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter M",
+        "source": "tts"
+      },
+      {
+        "file": "m/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "m as in moon",
+        "source": "tts"
+      },
+      {
+        "file": "m/02_word_moon.wav",
+        "kind": "word",
+        "label": "moon",
+        "hint": "moon",
+        "source": "human",
+        "word": "moon"
+      },
+      {
+        "file": "m/03_word_mouse.wav",
+        "kind": "word",
+        "label": "mouse",
+        "hint": "mouse",
+        "source": "human",
+        "word": "mouse"
+      },
+      {
+        "file": "m/04_word_milk.wav",
+        "kind": "word",
+        "label": "milk",
+        "hint": "milk",
+        "source": "human",
+        "word": "milk"
+      }
+    ],
+    "n": [
+      {
+        "file": "n/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter N",
+        "source": "tts"
+      },
+      {
+        "file": "n/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "n as in nest",
+        "source": "tts"
+      },
+      {
+        "file": "n/02_word_nest.wav",
+        "kind": "word",
+        "label": "nest",
+        "hint": "nest",
+        "source": "human",
+        "word": "nest"
+      },
+      {
+        "file": "n/03_word_nose.wav",
+        "kind": "word",
+        "label": "nose",
+        "hint": "nose",
+        "source": "human",
+        "word": "nose"
+      },
+      {
+        "file": "n/04_word_night.wav",
+        "kind": "word",
+        "label": "night",
+        "hint": "night",
+        "source": "human",
+        "word": "night"
+      }
+    ],
+    "o": [
+      {
+        "file": "o/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter O",
+        "source": "tts"
+      },
+      {
+        "file": "o/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "o as in hot",
+        "source": "tts"
+      },
+      {
+        "file": "o/02_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "o as in go",
+        "source": "tts"
+      },
+      {
+        "file": "o/03_word_octopus.wav",
+        "kind": "word",
+        "label": "octopus",
+        "hint": "octopus",
+        "source": "human",
+        "word": "octopus"
+      },
+      {
+        "file": "o/04_word_otter.wav",
+        "kind": "word",
+        "label": "otter",
+        "hint": "otter",
+        "source": "tts",
+        "word": "otter"
+      },
+      {
+        "file": "o/05_word_ostrich.wav",
+        "kind": "word",
+        "label": "ostrich",
+        "hint": "ostrich",
+        "source": "human",
+        "word": "ostrich"
+      }
+    ],
+    "p": [
+      {
+        "file": "p/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter P",
+        "source": "tts"
+      },
+      {
+        "file": "p/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "p as in pig",
+        "source": "tts"
+      },
+      {
+        "file": "p/02_word_pig.wav",
+        "kind": "word",
+        "label": "pig",
+        "hint": "pig",
+        "source": "human",
+        "word": "pig"
+      },
+      {
+        "file": "p/03_word_pen.wav",
+        "kind": "word",
+        "label": "pen",
+        "hint": "pen",
+        "source": "human",
+        "word": "pen"
+      },
+      {
+        "file": "p/04_word_pizza.wav",
+        "kind": "word",
+        "label": "pizza",
+        "hint": "pizza",
+        "source": "human",
+        "word": "pizza"
+      }
+    ],
+    "q": [
+      {
+        "file": "q/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter Q",
+        "source": "tts"
+      },
+      {
+        "file": "q/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "q as in queen",
+        "source": "tts"
+      },
+      {
+        "file": "q/02_word_queen.wav",
+        "kind": "word",
+        "label": "queen",
+        "hint": "queen",
+        "source": "human",
+        "word": "queen"
+      },
+      {
+        "file": "q/03_word_quilt.wav",
+        "kind": "word",
+        "label": "quilt",
+        "hint": "quilt",
+        "source": "human",
+        "word": "quilt"
+      },
+      {
+        "file": "q/04_word_quiet.wav",
+        "kind": "word",
+        "label": "quiet",
+        "hint": "quiet",
+        "source": "human",
+        "word": "quiet"
+      }
+    ],
+    "r": [
+      {
+        "file": "r/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter R",
+        "source": "tts"
+      },
+      {
+        "file": "r/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "r as in rain",
+        "source": "tts"
+      },
+      {
+        "file": "r/02_word_rain.wav",
+        "kind": "word",
+        "label": "rain",
+        "hint": "rain",
+        "source": "human",
+        "word": "rain"
+      },
+      {
+        "file": "r/03_word_rabbit.wav",
+        "kind": "word",
+        "label": "rabbit",
+        "hint": "rabbit",
+        "source": "human",
+        "word": "rabbit"
+      },
+      {
+        "file": "r/04_word_robot.wav",
+        "kind": "word",
+        "label": "robot",
+        "hint": "robot",
+        "source": "human",
+        "word": "robot"
+      }
+    ],
+    "s": [
+      {
+        "file": "s/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter S",
+        "source": "tts"
+      },
+      {
+        "file": "s/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "s as in sun",
+        "source": "tts"
+      },
+      {
+        "file": "s/02_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "s as in is",
+        "source": "tts"
+      },
+      {
+        "file": "s/03_word_sun.wav",
+        "kind": "word",
+        "label": "sun",
+        "hint": "sun",
+        "source": "human",
+        "word": "sun"
+      },
+      {
+        "file": "s/04_word_snake.wav",
+        "kind": "word",
+        "label": "snake",
+        "hint": "snake",
+        "source": "human",
+        "word": "snake"
+      },
+      {
+        "file": "s/05_word_star.wav",
+        "kind": "word",
+        "label": "star",
+        "hint": "star",
+        "source": "human",
+        "word": "star"
+      }
+    ],
+    "t": [
+      {
+        "file": "t/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter T",
+        "source": "tts"
+      },
+      {
+        "file": "t/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "t as in tree",
+        "source": "tts"
+      },
+      {
+        "file": "t/02_word_tree.wav",
+        "kind": "word",
+        "label": "tree",
+        "hint": "tree",
+        "source": "human",
+        "word": "tree"
+      },
+      {
+        "file": "t/03_word_train.wav",
+        "kind": "word",
+        "label": "train",
+        "hint": "train",
+        "source": "human",
+        "word": "train"
+      },
+      {
+        "file": "t/04_word_tiger.wav",
+        "kind": "word",
+        "label": "tiger",
+        "hint": "tiger",
+        "source": "human",
+        "word": "tiger"
+      }
+    ],
+    "u": [
+      {
+        "file": "u/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter U",
+        "source": "tts"
+      },
+      {
+        "file": "u/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "u as in cup",
+        "source": "tts"
+      },
+      {
+        "file": "u/02_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "u as in unicorn",
+        "source": "tts"
+      },
+      {
+        "file": "u/03_word_umbrella.wav",
+        "kind": "word",
+        "label": "umbrella",
+        "hint": "umbrella",
+        "source": "human",
+        "word": "umbrella"
+      },
+      {
+        "file": "u/04_word_up.wav",
+        "kind": "word",
+        "label": "up",
+        "hint": "up",
+        "source": "human",
+        "word": "up"
+      },
+      {
+        "file": "u/05_word_under.wav",
+        "kind": "word",
+        "label": "under",
+        "hint": "under",
+        "source": "human",
+        "word": "under"
+      }
+    ],
+    "v": [
+      {
+        "file": "v/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter V",
+        "source": "tts"
+      },
+      {
+        "file": "v/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "v as in violin",
+        "source": "tts"
+      },
+      {
+        "file": "v/02_word_violin.wav",
+        "kind": "word",
+        "label": "violin",
+        "hint": "violin",
+        "source": "human",
+        "word": "violin"
+      },
+      {
+        "file": "v/03_word_van.wav",
+        "kind": "word",
+        "label": "van",
+        "hint": "van",
+        "source": "human",
+        "word": "van"
+      },
+      {
+        "file": "v/04_word_volcano.wav",
+        "kind": "word",
+        "label": "volcano",
+        "hint": "volcano",
+        "source": "human",
+        "word": "volcano"
+      }
+    ],
+    "w": [
+      {
+        "file": "w/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter W",
+        "source": "tts"
+      },
+      {
+        "file": "w/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "w as in water",
+        "source": "tts"
+      },
+      {
+        "file": "w/02_word_water.wav",
+        "kind": "word",
+        "label": "water",
+        "hint": "water",
+        "source": "human",
+        "word": "water"
+      },
+      {
+        "file": "w/03_word_wagon.wav",
+        "kind": "word",
+        "label": "wagon",
+        "hint": "wagon",
+        "source": "human",
+        "word": "wagon"
+      },
+      {
+        "file": "w/04_word_window.wav",
+        "kind": "word",
+        "label": "window",
+        "hint": "window",
+        "source": "human",
+        "word": "window"
+      }
+    ],
+    "x": [
+      {
+        "file": "x/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter X",
+        "source": "tts"
+      },
+      {
+        "file": "x/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "x as in box",
+        "source": "tts"
+      },
+      {
+        "file": "x/02_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "x as in xylophone",
+        "source": "tts"
+      },
+      {
+        "file": "x/03_word_box.wav",
+        "kind": "word",
+        "label": "box",
+        "hint": "box",
+        "source": "human",
+        "word": "box"
+      },
+      {
+        "file": "x/04_word_fox.wav",
+        "kind": "word",
+        "label": "fox",
+        "hint": "fox",
+        "source": "human",
+        "word": "fox"
+      },
+      {
+        "file": "x/05_word_six.wav",
+        "kind": "word",
+        "label": "six",
+        "hint": "six",
+        "source": "human",
+        "word": "six"
+      }
+    ],
+    "y": [
+      {
+        "file": "y/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter Y",
+        "source": "tts"
+      },
+      {
+        "file": "y/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "y as in yes",
+        "source": "tts"
+      },
+      {
+        "file": "y/02_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "y as in my",
+        "source": "tts"
+      },
+      {
+        "file": "y/03_word_yellow.wav",
+        "kind": "word",
+        "label": "yellow",
+        "hint": "yellow",
+        "source": "human",
+        "word": "yellow"
+      },
+      {
+        "file": "y/04_word_yarn.wav",
+        "kind": "word",
+        "label": "yarn",
+        "hint": "yarn",
+        "source": "human",
+        "word": "yarn"
+      },
+      {
+        "file": "y/05_word_yo-yo.wav",
+        "kind": "word",
+        "label": "yo-yo",
+        "hint": "yo-yo",
+        "source": "human",
+        "word": "yo-yo"
+      }
+    ],
+    "z": [
+      {
+        "file": "z/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "the letter Z",
+        "source": "tts"
+      },
+      {
+        "file": "z/01_sound.wav",
+        "kind": "sound",
+        "label": null,
+        "hint": "z as in zebra",
+        "source": "tts"
+      },
+      {
+        "file": "z/02_word_zebra.wav",
+        "kind": "word",
+        "label": "zebra",
+        "hint": "zebra",
+        "source": "human",
+        "word": "zebra"
+      },
+      {
+        "file": "z/03_word_zoo.wav",
+        "kind": "word",
+        "label": "zoo",
+        "hint": "zoo",
+        "source": "human",
+        "word": "zoo"
+      },
+      {
+        "file": "z/04_word_zipper.wav",
+        "kind": "word",
+        "label": "zipper",
+        "hint": "zipper",
+        "source": "human",
+        "word": "zipper"
+      }
+    ],
+    "0": [
+      {
+        "file": "0/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "zero",
+        "source": "tts"
+      }
+    ],
+    "1": [
+      {
+        "file": "1/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "one",
+        "source": "tts"
+      }
+    ],
+    "2": [
+      {
+        "file": "2/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "two",
+        "source": "tts"
+      }
+    ],
+    "3": [
+      {
+        "file": "3/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "three",
+        "source": "tts"
+      }
+    ],
+    "4": [
+      {
+        "file": "4/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "four",
+        "source": "tts"
+      }
+    ],
+    "5": [
+      {
+        "file": "5/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "five",
+        "source": "tts"
+      }
+    ],
+    "6": [
+      {
+        "file": "6/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "six",
+        "source": "tts"
+      }
+    ],
+    "7": [
+      {
+        "file": "7/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "seven",
+        "source": "tts"
+      }
+    ],
+    "8": [
+      {
+        "file": "8/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "eight",
+        "source": "tts"
+      }
+    ],
+    "9": [
+      {
+        "file": "9/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "nine",
+        "source": "tts"
+      }
+    ],
+    "exclaim": [
+      {
+        "file": "exclaim/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "exclamation mark",
+        "source": "tts"
+      }
+    ],
+    "at": [
+      {
+        "file": "at/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "at sign",
+        "source": "tts"
+      }
+    ],
+    "hash": [
+      {
+        "file": "hash/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "hash",
+        "source": "tts"
+      }
+    ],
+    "dollar": [
+      {
+        "file": "dollar/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "dollar sign",
+        "source": "tts"
+      }
+    ],
+    "percent": [
+      {
+        "file": "percent/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "percent",
+        "source": "tts"
+      }
+    ],
+    "caret": [
+      {
+        "file": "caret/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "caret",
+        "source": "tts"
+      }
+    ],
+    "ampersand": [
+      {
+        "file": "ampersand/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "ampersand",
+        "source": "tts"
+      }
+    ],
+    "asterisk": [
+      {
+        "file": "asterisk/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "asterisk",
+        "source": "tts"
+      }
+    ],
+    "leftparen": [
+      {
+        "file": "leftparen/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "left parenthesis",
+        "source": "tts"
+      }
+    ],
+    "rightparen": [
+      {
+        "file": "rightparen/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "right parenthesis",
+        "source": "tts"
+      }
+    ],
+    "minus": [
+      {
+        "file": "minus/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "minus",
+        "source": "tts"
+      }
+    ],
+    "underscore": [
+      {
+        "file": "underscore/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "underscore",
+        "source": "tts"
+      }
+    ],
+    "equals": [
+      {
+        "file": "equals/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "equals",
+        "source": "tts"
+      }
+    ],
+    "plus": [
+      {
+        "file": "plus/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "plus",
+        "source": "tts"
+      }
+    ],
+    "leftbracket": [
+      {
+        "file": "leftbracket/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "left bracket",
+        "source": "tts"
+      }
+    ],
+    "rightbracket": [
+      {
+        "file": "rightbracket/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "right bracket",
+        "source": "tts"
+      }
+    ],
+    "leftbrace": [
+      {
+        "file": "leftbrace/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "left brace",
+        "source": "tts"
+      }
+    ],
+    "rightbrace": [
+      {
+        "file": "rightbrace/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "right brace",
+        "source": "tts"
+      }
+    ],
+    "backslash": [
+      {
+        "file": "backslash/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "backslash",
+        "source": "tts"
+      }
+    ],
+    "pipe": [
+      {
+        "file": "pipe/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "pipe",
+        "source": "tts"
+      }
+    ],
+    "semicolon": [
+      {
+        "file": "semicolon/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "semicolon",
+        "source": "tts"
+      }
+    ],
+    "colon": [
+      {
+        "file": "colon/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "colon",
+        "source": "tts"
+      }
+    ],
+    "quote": [
+      {
+        "file": "quote/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "quote",
+        "source": "tts"
+      }
+    ],
+    "doublequote": [
+      {
+        "file": "doublequote/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "double quote",
+        "source": "tts"
+      }
+    ],
+    "comma": [
+      {
+        "file": "comma/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "comma",
+        "source": "tts"
+      }
+    ],
+    "period": [
+      {
+        "file": "period/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "period",
+        "source": "tts"
+      }
+    ],
+    "slash": [
+      {
+        "file": "slash/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "slash",
+        "source": "tts"
+      }
+    ],
+    "question": [
+      {
+        "file": "question/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "question mark",
+        "source": "tts"
+      }
+    ],
+    "less": [
+      {
+        "file": "less/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "less than",
+        "source": "tts"
+      }
+    ],
+    "greater": [
+      {
+        "file": "greater/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "greater than",
+        "source": "tts"
+      }
+    ],
+    "tilde": [
+      {
+        "file": "tilde/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "tilde",
+        "source": "tts"
+      }
+    ],
+    "backtick": [
+      {
+        "file": "backtick/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "backtick",
+        "source": "tts"
+      }
+    ],
+    "f1": [
+      {
+        "file": "f1/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "F 1",
+        "source": "tts"
+      }
+    ],
+    "f2": [
+      {
+        "file": "f2/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "F 2",
+        "source": "tts"
+      }
+    ],
+    "f3": [
+      {
+        "file": "f3/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "F 3",
+        "source": "tts"
+      }
+    ],
+    "f4": [
+      {
+        "file": "f4/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "F 4",
+        "source": "tts"
+      }
+    ],
+    "f5": [
+      {
+        "file": "f5/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "F 5",
+        "source": "tts"
+      }
+    ],
+    "f6": [
+      {
+        "file": "f6/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "F 6",
+        "source": "tts"
+      }
+    ],
+    "f7": [
+      {
+        "file": "f7/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "F 7",
+        "source": "tts"
+      }
+    ],
+    "f8": [
+      {
+        "file": "f8/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "F 8",
+        "source": "tts"
+      }
+    ],
+    "f9": [
+      {
+        "file": "f9/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "F 9",
+        "source": "tts"
+      }
+    ],
+    "f10": [
+      {
+        "file": "f10/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "F 10",
+        "source": "tts"
+      }
+    ],
+    "f11": [
+      {
+        "file": "f11/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "F 11",
+        "source": "tts"
+      }
+    ],
+    "f12": [
+      {
+        "file": "f12/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "F 12",
+        "source": "tts"
+      }
+    ],
+    "space": [
+      {
+        "file": "space/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "space",
+        "source": "tts"
+      }
+    ],
+    "enter": [
+      {
+        "file": "enter/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "enter",
+        "source": "tts"
+      }
+    ],
+    "return": [
+      {
+        "file": "return/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "return",
+        "source": "tts"
+      }
+    ],
+    "tab": [
+      {
+        "file": "tab/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "tab",
+        "source": "tts"
+      }
+    ],
+    "backspace": [
+      {
+        "file": "backspace/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "backspace",
+        "source": "tts"
+      }
+    ],
+    "escape": [
+      {
+        "file": "escape/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "escape",
+        "source": "tts"
+      }
+    ],
+    "shift": [
+      {
+        "file": "shift/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "shift",
+        "source": "tts"
+      }
+    ],
+    "control": [
+      {
+        "file": "control/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "control",
+        "source": "tts"
+      }
+    ],
+    "alt": [
+      {
+        "file": "alt/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "alt",
+        "source": "tts"
+      }
+    ],
+    "capslock": [
+      {
+        "file": "capslock/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "caps lock",
+        "source": "tts"
+      }
+    ],
+    "delete": [
+      {
+        "file": "delete/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "delete",
+        "source": "tts"
+      }
+    ],
+    "home": [
+      {
+        "file": "home/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "home",
+        "source": "tts"
+      }
+    ],
+    "end": [
+      {
+        "file": "end/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "end",
+        "source": "tts"
+      }
+    ],
+    "pageup": [
+      {
+        "file": "pageup/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "page up",
+        "source": "tts"
+      }
+    ],
+    "pagedown": [
+      {
+        "file": "pagedown/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "page down",
+        "source": "tts"
+      }
+    ],
+    "up": [
+      {
+        "file": "up/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "up arrow",
+        "source": "tts"
+      }
+    ],
+    "down": [
+      {
+        "file": "down/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "down arrow",
+        "source": "tts"
+      }
+    ],
+    "left": [
+      {
+        "file": "left/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "left arrow",
+        "source": "tts"
+      }
+    ],
+    "right": [
+      {
+        "file": "right/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "right arrow",
+        "source": "tts"
+      }
+    ],
+    "insert": [
+      {
+        "file": "insert/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "insert",
+        "source": "tts"
+      }
+    ],
+    "printscreen": [
+      {
+        "file": "printscreen/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "print screen",
+        "source": "tts"
+      }
+    ],
+    "scrolllock": [
+      {
+        "file": "scrolllock/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "scroll lock",
+        "source": "tts"
+      }
+    ],
+    "pause": [
+      {
+        "file": "pause/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "pause",
+        "source": "tts"
+      }
+    ],
+    "numlock": [
+      {
+        "file": "numlock/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "num lock",
+        "source": "tts"
+      }
+    ],
+    "super": [
+      {
+        "file": "super/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "super",
+        "source": "tts"
+      }
+    ],
+    "menu": [
+      {
+        "file": "menu/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "menu",
+        "source": "tts"
+      }
+    ],
+    "click": [
+      {
+        "file": "click/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "click",
+        "source": "tts"
+      }
+    ],
+    "rightclick": [
+      {
+        "file": "rightclick/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "right click",
+        "source": "tts"
+      }
+    ],
+    "middleclick": [
+      {
+        "file": "middleclick/00_name.wav",
+        "kind": "name",
+        "label": null,
+        "hint": "middle click",
+        "source": "tts"
+      }
+    ]
+  }
+}

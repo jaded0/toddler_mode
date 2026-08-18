@@ -1,0 +1,629 @@
+{
+  "frame_size": 192,
+  "words": {
+    "alligator": {
+      "animated": true,
+      "approximate": false,
+      "file": "alligator.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "ant": {
+      "animated": true,
+      "approximate": false,
+      "file": "ant.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "apple": {
+      "animated": true,
+      "approximate": false,
+      "file": "apple.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "ball": {
+      "animated": true,
+      "approximate": false,
+      "file": "ball.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "banana": {
+      "animated": false,
+      "approximate": false,
+      "file": "banana.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "bear": {
+      "animated": true,
+      "approximate": false,
+      "file": "bear.png",
+      "frame_ms": 33,
+      "frames": 30,
+      "size": 192
+    },
+    "box": {
+      "animated": true,
+      "approximate": false,
+      "file": "box.png",
+      "frame_ms": 33,
+      "frames": 28,
+      "size": 192
+    },
+    "car": {
+      "animated": true,
+      "approximate": false,
+      "file": "car.png",
+      "frame_ms": 39,
+      "frames": 30,
+      "size": 192
+    },
+    "cat": {
+      "animated": true,
+      "approximate": false,
+      "file": "cat.png",
+      "frame_ms": 34,
+      "frames": 30,
+      "size": 192
+    },
+    "cup": {
+      "animated": false,
+      "approximate": false,
+      "file": "cup.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "dog": {
+      "animated": false,
+      "approximate": false,
+      "file": "dog.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "door": {
+      "animated": false,
+      "approximate": false,
+      "file": "door.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "duck": {
+      "animated": false,
+      "approximate": false,
+      "file": "duck.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "egg": {
+      "animated": false,
+      "approximate": false,
+      "file": "egg.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "elbow": {
+      "animated": true,
+      "approximate": false,
+      "file": "elbow.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "elephant": {
+      "animated": false,
+      "approximate": false,
+      "file": "elephant.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "fish": {
+      "animated": true,
+      "approximate": false,
+      "file": "fish.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "flower": {
+      "animated": true,
+      "approximate": false,
+      "file": "flower.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "fox": {
+      "animated": true,
+      "approximate": false,
+      "file": "fox.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "frog": {
+      "animated": true,
+      "approximate": false,
+      "file": "frog.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "girl": {
+      "animated": false,
+      "approximate": false,
+      "file": "girl.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "goat": {
+      "animated": true,
+      "approximate": false,
+      "file": "goat.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "green": {
+      "animated": false,
+      "approximate": false,
+      "file": "green.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "hat": {
+      "animated": false,
+      "approximate": false,
+      "file": "hat.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "horse": {
+      "animated": false,
+      "approximate": false,
+      "file": "horse.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "house": {
+      "animated": true,
+      "approximate": false,
+      "file": "house.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "igloo": {
+      "animated": true,
+      "approximate": true,
+      "file": "igloo.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "ink": {
+      "animated": false,
+      "approximate": true,
+      "file": "ink.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "insect": {
+      "animated": true,
+      "approximate": false,
+      "file": "insect.png",
+      "frame_ms": 38,
+      "frames": 30,
+      "size": 192
+    },
+    "jar": {
+      "animated": false,
+      "approximate": false,
+      "file": "jar.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "juice": {
+      "animated": true,
+      "approximate": false,
+      "file": "juice.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "jump": {
+      "animated": false,
+      "approximate": false,
+      "file": "jump.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "key": {
+      "animated": false,
+      "approximate": false,
+      "file": "key.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "king": {
+      "animated": false,
+      "approximate": false,
+      "file": "king.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "kite": {
+      "animated": true,
+      "approximate": false,
+      "file": "kite.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "lamp": {
+      "animated": true,
+      "approximate": false,
+      "file": "lamp.png",
+      "frame_ms": 135,
+      "frames": 16,
+      "size": 192
+    },
+    "leaf": {
+      "animated": true,
+      "approximate": false,
+      "file": "leaf.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "lion": {
+      "animated": true,
+      "approximate": false,
+      "file": "lion.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "milk": {
+      "animated": false,
+      "approximate": false,
+      "file": "milk.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "moon": {
+      "animated": false,
+      "approximate": false,
+      "file": "moon.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "mouse": {
+      "animated": false,
+      "approximate": false,
+      "file": "mouse.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "nest": {
+      "animated": false,
+      "approximate": false,
+      "file": "nest.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "night": {
+      "animated": false,
+      "approximate": false,
+      "file": "night.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "nose": {
+      "animated": true,
+      "approximate": false,
+      "file": "nose.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "octopus": {
+      "animated": true,
+      "approximate": false,
+      "file": "octopus.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "ostrich": {
+      "animated": true,
+      "approximate": false,
+      "file": "ostrich.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "otter": {
+      "animated": true,
+      "approximate": false,
+      "file": "otter.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "pen": {
+      "animated": false,
+      "approximate": false,
+      "file": "pen.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "pig": {
+      "animated": false,
+      "approximate": false,
+      "file": "pig.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "pizza": {
+      "animated": true,
+      "approximate": false,
+      "file": "pizza.png",
+      "frame_ms": 54,
+      "frames": 30,
+      "size": 192
+    },
+    "queen": {
+      "animated": false,
+      "approximate": false,
+      "file": "queen.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "quiet": {
+      "animated": true,
+      "approximate": false,
+      "file": "quiet.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "quilt": {
+      "animated": false,
+      "approximate": true,
+      "file": "quilt.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "rabbit": {
+      "animated": false,
+      "approximate": false,
+      "file": "rabbit.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "rain": {
+      "animated": true,
+      "approximate": false,
+      "file": "rain.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "robot": {
+      "animated": true,
+      "approximate": false,
+      "file": "robot.png",
+      "frame_ms": 40,
+      "frames": 30,
+      "size": 192
+    },
+    "six": {
+      "animated": false,
+      "approximate": false,
+      "file": "six.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "snake": {
+      "animated": true,
+      "approximate": false,
+      "file": "snake.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "star": {
+      "animated": true,
+      "approximate": false,
+      "file": "star.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "sun": {
+      "animated": true,
+      "approximate": false,
+      "file": "sun.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "tiger": {
+      "animated": false,
+      "approximate": false,
+      "file": "tiger.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "train": {
+      "animated": false,
+      "approximate": false,
+      "file": "train.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "tree": {
+      "animated": false,
+      "approximate": false,
+      "file": "tree.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "umbrella": {
+      "animated": true,
+      "approximate": false,
+      "file": "umbrella.png",
+      "frame_ms": 71,
+      "frames": 30,
+      "size": 192
+    },
+    "under": {
+      "animated": false,
+      "approximate": true,
+      "file": "under.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "up": {
+      "animated": false,
+      "approximate": true,
+      "file": "up.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "van": {
+      "animated": false,
+      "approximate": false,
+      "file": "van.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "violin": {
+      "animated": true,
+      "approximate": false,
+      "file": "violin.png",
+      "frame_ms": 33,
+      "frames": 30,
+      "size": 192
+    },
+    "volcano": {
+      "animated": true,
+      "approximate": false,
+      "file": "volcano.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "wagon": {
+      "animated": true,
+      "approximate": false,
+      "file": "wagon.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "water": {
+      "animated": true,
+      "approximate": false,
+      "file": "water.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    },
+    "window": {
+      "animated": false,
+      "approximate": false,
+      "file": "window.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "yarn": {
+      "animated": false,
+      "approximate": false,
+      "file": "yarn.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "yellow": {
+      "animated": false,
+      "approximate": false,
+      "file": "yellow.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "yo-yo": {
+      "animated": false,
+      "approximate": false,
+      "file": "yo-yo.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "zebra": {
+      "animated": false,
+      "approximate": false,
+      "file": "zebra.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "zipper": {
+      "animated": false,
+      "approximate": true,
+      "file": "zipper.png",
+      "frame_ms": 0,
+      "frames": 1,
+      "size": 192
+    },
+    "zoo": {
+      "animated": true,
+      "approximate": true,
+      "file": "zoo.png",
+      "frame_ms": 30,
+      "frames": 30,
+      "size": 192
+    }
+  }
+}

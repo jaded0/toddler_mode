@@ -1,0 +1,2490 @@
+{
+  "audio": {
+    "0/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "1/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "2/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "3/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "4/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "5/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "6/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "7/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "8/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "9/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "a/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "a/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "a/02_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "a/03_word_apple.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-apple.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-apple.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/En-us-apple.ogg"
+    },
+    "a/04_word_ant.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-ant.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-ant.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/En-us-ant.ogg"
+    },
+    "a/05_word_alligator.wav": {
+      "author": "Andrevan",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-alligator.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-alligator.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/En-us-alligator.ogg"
+    },
+    "alt/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "ampersand/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "asterisk/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "at/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "b/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "b/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "b/02_word_ball.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-ball.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-ball.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/En-us-ball.ogg"
+    },
+    "b/03_word_bear.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-bear.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-bear.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/En-us-bear.ogg"
+    },
+    "b/04_word_banana.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-banana.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-banana.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/En-us-banana.ogg"
+    },
+    "backslash/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "backspace/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "backtick/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "c/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "c/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "c/02_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "c/03_word_cat.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-cat.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-cat.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/En-us-cat.ogg"
+    },
+    "c/04_word_cup.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-cup.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-cup.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/En-us-cup.ogg"
+    },
+    "c/05_word_car.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-car.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-car.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/En-us-car.ogg"
+    },
+    "capslock/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "caret/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "click/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "colon/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "comma/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "control/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "d/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "d/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "d/02_word_dog.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-dog.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-dog.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/En-us-dog.ogg"
+    },
+    "d/03_word_duck.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-duck.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-duck.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/En-us-duck.ogg"
+    },
+    "d/04_word_door.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-door.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-door.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/En-us-door.ogg"
+    },
+    "delete/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "dollar/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "doublequote/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "down/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "e/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "e/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "e/02_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "e/03_word_egg.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-egg.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-egg.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/En-us-egg.ogg"
+    },
+    "e/04_word_elephant.wav": {
+      "author": "unknown",
+      "license": "Public domain",
+      "license_url": "",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-elephant.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-elephant.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/En-us-elephant.ogg"
+    },
+    "e/05_word_elbow.wav": {
+      "author": "No machine-readable author provided. Dvortygirl assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-elbow.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-elbow.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/En-us-elbow.ogg"
+    },
+    "end/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "enter/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "equals/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "escape/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "exclaim/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "f/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "f/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "f/02_word_fish.wav": {
+      "author": "unknown",
+      "license": "Public domain",
+      "license_url": "",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-fish.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-fish.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/En-us-fish.ogg"
+    },
+    "f/03_word_frog.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-frog.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-frog.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/En-us-frog.ogg"
+    },
+    "f/04_word_flower.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-flower.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-flower.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/En-us-flower.ogg"
+    },
+    "f1/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "f10/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "f11/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "f12/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "f2/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "f3/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "f4/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "f5/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "f6/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "f7/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "f8/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "f9/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "g/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "g/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "g/02_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "g/03_word_goat.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-goat.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-goat.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/En-us-goat.ogg"
+    },
+    "g/04_word_girl.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-girl.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-girl.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/En-us-girl.ogg"
+    },
+    "g/05_word_green.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-green.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-green.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/En-us-green.ogg"
+    },
+    "greater/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "h/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "h/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "h/02_word_hat.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-hat.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-hat.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/En-us-hat.ogg"
+    },
+    "h/03_word_house.wav": {
+      "author": "Association Shtooka, Judith Franck",
+      "license": "CC BY 3.0 us",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-uk-house.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-uk-house.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/En-uk-house.ogg"
+    },
+    "h/04_word_horse.wav": {
+      "author": "No machine-readable author provided. Dvortygirl assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-horse.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-horse.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/En-us-horse.ogg"
+    },
+    "hash/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "home/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "i/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "i/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "i/02_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "i/03_word_igloo.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "i/04_word_insect.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-insect.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-insect.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/En-us-insect.ogg"
+    },
+    "i/05_word_ink.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-ink.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-ink.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/En-us-ink.ogg"
+    },
+    "insert/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "j/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "j/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "j/02_word_jump.wav": {
+      "author": "TreeMama",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-jump.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-jump.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/En-us-jump.ogg"
+    },
+    "j/03_word_jar.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-jar.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-jar.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/En-us-jar.ogg"
+    },
+    "j/04_word_juice.wav": {
+      "author": "No machine-readable author provided. Dominic assumed (based on copyright claims).",
+      "license": "Public domain",
+      "license_url": "",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-juice.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-juice.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/En-us-juice.ogg"
+    },
+    "k/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "k/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "k/02_word_kite.wav": {
+      "author": "Mx. Granger",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-kite.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-kite.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/En-us-kite.ogg"
+    },
+    "k/03_word_key.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-key.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-key.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/En-us-key.ogg"
+    },
+    "k/04_word_king.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-king.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-king.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/En-us-king.ogg"
+    },
+    "l/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "l/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "l/02_word_lion.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-lion.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-lion.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/En-us-lion.ogg"
+    },
+    "l/03_word_leaf.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-leaf.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-leaf.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/En-us-leaf.ogg"
+    },
+    "l/04_word_lamp.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-lamp.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-lamp.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/En-us-lamp.ogg"
+    },
+    "left/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "leftbrace/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "leftbracket/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "leftparen/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "less/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "m/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "m/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "m/02_word_moon.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-moon.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-moon.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/En-us-moon.ogg"
+    },
+    "m/03_word_mouse.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-mouse.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-mouse.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/En-us-mouse.ogg"
+    },
+    "m/04_word_milk.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-milk.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-milk.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/En-us-milk.ogg"
+    },
+    "menu/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "middleclick/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "minus/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "n/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "n/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "n/02_word_nest.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-nest.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-nest.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/En-us-nest.ogg"
+    },
+    "n/03_word_nose.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-nose.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-nose.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/En-us-nose.ogg"
+    },
+    "n/04_word_night.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-night.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-night.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/En-us-night.ogg"
+    },
+    "numlock/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "o/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "o/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "o/02_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "o/03_word_octopus.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-octopus.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-octopus.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/En-us-octopus.ogg"
+    },
+    "o/04_word_otter.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "o/05_word_ostrich.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-ostrich.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-ostrich.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/En-us-ostrich.ogg"
+    },
+    "p/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "p/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "p/02_word_pig.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-pig.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-pig.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/En-us-pig.ogg"
+    },
+    "p/03_word_pen.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-pen.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-pen.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/En-us-pen.ogg"
+    },
+    "p/04_word_pizza.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-pizza.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-pizza.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/En-us-pizza.ogg"
+    },
+    "pagedown/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "pageup/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "pause/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "percent/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "period/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "pipe/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "plus/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "printscreen/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "q/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "q/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "q/02_word_queen.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-queen.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-queen.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/En-us-queen.ogg"
+    },
+    "q/03_word_quilt.wav": {
+      "author": "Sylvanmoon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-quilt.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-quilt.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/En-us-quilt.ogg"
+    },
+    "q/04_word_quiet.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-quiet.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-quiet.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/En-us-quiet.ogg"
+    },
+    "question/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "quote/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "r/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "r/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "r/02_word_rain.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-rain.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-rain.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/En-us-rain.ogg"
+    },
+    "r/03_word_rabbit.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-rabbit.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-rabbit.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/En-us-rabbit.ogg"
+    },
+    "r/04_word_robot.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-robot.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-robot.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/En-us-robot.ogg"
+    },
+    "return/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "right/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "rightbrace/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "rightbracket/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "rightclick/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "rightparen/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "s/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "s/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "s/02_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "s/03_word_sun.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-sun.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-sun.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/En-us-Sun.ogg"
+    },
+    "s/04_word_snake.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-snake.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-snake.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/En-us-snake.ogg"
+    },
+    "s/05_word_star.wav": {
+      "author": "No machine-readable author provided. Dvortygirl assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-star.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-star.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/En-us-star.ogg"
+    },
+    "scrolllock/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "semicolon/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "shift/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "slash/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "space/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "super/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "t/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "t/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "t/02_word_tree.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-tree.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-tree.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/En-us-tree.ogg"
+    },
+    "t/03_word_train.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-train.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-train.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/En-us-train.ogg"
+    },
+    "t/04_word_tiger.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-tiger.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-tiger.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/En-us-tiger.ogg"
+    },
+    "tab/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "tilde/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "u/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "u/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "u/02_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "u/03_word_umbrella.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-umbrella.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-umbrella.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/En-us-umbrella.ogg"
+    },
+    "u/04_word_up.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-up.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-up.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/En-us-up.ogg"
+    },
+    "u/05_word_under.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-under.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-under.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/En-us-under.ogg"
+    },
+    "underscore/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "up/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "v/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "v/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "v/02_word_violin.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-violin.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-violin.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/En-us-violin.ogg"
+    },
+    "v/03_word_van.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-van.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-van.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/En-us-van.ogg"
+    },
+    "v/04_word_volcano.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-volcano.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-volcano.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/En-us-volcano.ogg"
+    },
+    "w/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "w/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "w/02_word_water.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-water.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-water.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/En-us-water.ogg"
+    },
+    "w/03_word_wagon.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-wagon.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-wagon.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/En-us-wagon.ogg"
+    },
+    "w/04_word_window.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-window.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-window.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/En-us-window.ogg"
+    },
+    "x/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "x/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "x/02_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "x/03_word_box.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-box.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-box.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/En-us-box.ogg"
+    },
+    "x/04_word_fox.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-fox.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-fox.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/En-us-fox.ogg"
+    },
+    "x/05_word_six.wav": {
+      "author": "No machine-readable author provided. TheDaveRoss assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-six.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-six.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/En-us-six.ogg"
+    },
+    "y/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "y/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "y/02_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "y/03_word_yellow.wav": {
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-yellow.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-yellow.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/En-us-yellow.ogg"
+    },
+    "y/04_word_yarn.wav": {
+      "author": "EncycloPetey",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-yarn.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-yarn.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/En-us-yarn.ogg"
+    },
+    "y/05_word_yo-yo.wav": {
+      "author": "No machine-readable author provided. Dvortygirl assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-yo-yo.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-yo-yo.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/En-us-yo-yo.ogg"
+    },
+    "z/00_name.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "z/01_sound.wav": {
+      "author": "hexgrad",
+      "generated": true,
+      "license": "Apache-2.0",
+      "source": "Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "voice": "af_heart"
+    },
+    "z/02_word_zebra.wav": {
+      "author": "No machine-readable author provided. Dvortygirl assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-zebra.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-zebra.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/En-us-zebra.ogg"
+    },
+    "z/03_word_zoo.wav": {
+      "author": "No machine-readable author provided. Neoglitch assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-us-zoo.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-us-zoo.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/En-us-zoo.ogg"
+    },
+    "z/04_word_zipper.wav": {
+      "author": "Commander Keane",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEn-au-zipper.ogg",
+      "source": "Wikimedia Commons",
+      "title": "File:En-au-zipper.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/En-au-zipper.ogg"
+    }
+  },
+  "images": {
+    "alligator.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f40a",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "ant.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f41c",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "apple.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f34e",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "ball.png": {
+      "author": "Google Fonts",
+      "codepoint": "26bd",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "banana.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f34c",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "bear.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f43b",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "box.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f4e6",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "car.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f697",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "cat.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f431",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "cup.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f964",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "dog.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f436",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "door.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f6aa",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "duck.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f986",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "egg.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f95a",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "elbow.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f4aa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "elephant.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f418",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "fish.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f41f",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "flower.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f338",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "fox.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f98a",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "frog.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f438",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "girl.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f467",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "goat.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f410",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "green.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f7e2",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "hat.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f452",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "horse.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f434",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "house.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f3e0",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "igloo.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f3e0",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "ink.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f58b",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "insect.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f41b",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "jar.png": {
+      "author": "Google Fonts",
+      "codepoint": "1fad9",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "juice.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f9c3",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "jump.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f938",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "key.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f511",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "king.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f934",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "kite.png": {
+      "author": "Google Fonts",
+      "codepoint": "1fa81",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "lamp.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f4a1",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "leaf.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f343",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "lion.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f981",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "milk.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f95b",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "moon.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f319",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "mouse.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f42d",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "nest.png": {
+      "author": "Google Fonts",
+      "codepoint": "1faba",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "night.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f303",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "nose.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f443",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "octopus.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f419",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "ostrich.png": {
+      "author": "Google Fonts",
+      "codepoint": "1fabf",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "otter.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f9a6",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "pen.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f58a",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "pig.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f437",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "pizza.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f355",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "queen.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f478",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "quiet.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f92b",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "quilt.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f9f5",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "rabbit.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f430",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "rain.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f327",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "robot.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f916",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "six.png": {
+      "author": "Google Fonts",
+      "codepoint": "0036-fe0f-20e3",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "snake.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f40d",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "star.png": {
+      "author": "Google Fonts",
+      "codepoint": "2b50",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "sun.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f31e",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "tiger.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f42f",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "train.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f686",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "tree.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f333",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "umbrella.png": {
+      "author": "Google Fonts",
+      "codepoint": "2602",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "under.png": {
+      "author": "Google Fonts",
+      "codepoint": "2b07",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "up.png": {
+      "author": "Google Fonts",
+      "codepoint": "2b06",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "van.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f690",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "violin.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f3bb",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "volcano.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f30b",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "wagon.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f69a",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "water.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f4a7",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    },
+    "window.png": {
+      "author": "Google Fonts",
+      "codepoint": "1fa9f",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "yarn.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f9f6",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "yellow.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f7e1",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "yo-yo.png": {
+      "author": "Google Fonts",
+      "codepoint": "1fa80",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "zebra.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f993",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "zipper.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f9f5",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source": "Noto Color Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    "zoo.png": {
+      "author": "Google Fonts",
+      "codepoint": "1f981",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Noto Animated Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-animation/"
+    }
+  }
+}

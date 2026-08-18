@@ -2,3 +2,10 @@ __pycache__/
 *.pyc
 *.pyo
 .env
+
+# audition reels are regenerable previews, not assets
+assets/sounds/audition_*.wav
+
+# fetched assets are regenerable; keep the repo lean if you prefer
+# (commented out by default -- the committed assets ARE the point)
+#assets/images/

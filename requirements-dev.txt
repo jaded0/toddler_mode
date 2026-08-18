@@ -1,0 +1,11 @@
+# Only needed to (re)build assets, not to play Toddler Mode.
+#   generate_sounds.py  -- speech synthesis + Commons downloads
+#   fetch_visuals.py    -- emoji sprite sheets
+#   build_assets_doc.py -- regenerates ASSETS.md
+# Needs Python >=3.9; the runtime itself is happy on 3.8.
+-r requirements.txt
+numpy>=1.24
+scipy>=1.10
+soundfile>=0.13
+pillow>=10.0
+kokoro>=0.9.4

@@ -8,6 +8,8 @@ behind a big custom cursor. Exit by holding Escape for 5 seconds.
 """
 
 import os
+import json
+import collections
 import sys
 import math
 import random
@@ -27,6 +29,10 @@ BUBBLE_SPAWN_INTERVAL = 0.03  # seconds between bubble spawns while moving
 MAX_KEY_DISPLAYS = 10
 KEY_DISPLAY_DURATION = 2.0  # seconds
 KEY_FONT_SIZE = 300
+KEY_WORD_FONT_SIZE = 110  # the word shown beneath the letter
+WORD_GAP = 10  # pixels between the big letter and the word/picture row
+IMAGE_GAP = 18  # pixels between the picture and the word
+MAX_CACHED_IMAGES = 24  # sprite sheets held in memory at once
 STAMP_DURATION = 3.0  # seconds
 MAX_STAMPS = 20
 CURSOR_RADIUS = 30
@@ -196,9 +202,22 @@ class Bubble:
 
 
 class KeyDisplay:
-    """A big letter/text that fades in and out."""
-    def __init__(self, text, screen_w, screen_h, font_large, font_small):
+    """A big letter, with the spoken word and its picture beneath it.
+
+    Layout, when a word is being spoken:
+
+            A            <- huge, colored
+        [picture] apple  <- picture beside the word
+
+    The picture is a frame from a sprite sheet; animated emoji cycle through
+    their frames for as long as the display lives.
+    """
+    def __init__(self, text, screen_w, screen_h, font_large, font_small,
+                 font_word=None, subtitle=None, image=None):
         self.text = text
+        self.subtitle = subtitle
+        self.font_word = font_word
+        self.image = image
         self.color = random.choice(BRIGHT_COLORS)
         self.spawn_time = time.time()
         self.duration = KEY_DISPLAY_DURATION
@@ -211,6 +230,8 @@ class KeyDisplay:
             self.font = font_large
 
         # Random position, but keep it mostly centered-ish
+        self.screen_w = screen_w
+        self.screen_h = screen_h
         margin_x = screen_w // 6
         margin_y = screen_h // 6
         self.x = random.randint(margin_x, screen_w - margin_x)
@@ -248,9 +269,58 @@ class KeyDisplay:
             new_h = int(text_surf.get_height() * scale)
             text_surf = pygame.transform.smoothscale(text_surf, (new_w, new_h))
 
+        # Word and picture form a row under the letter; all centred as a unit.
+        sub_surf = None
+        if self.subtitle and self.font_word:
+            sub_surf = self.font_word.render(self.subtitle, True, (r, g, b))
+            sub_surf.set_alpha(alpha)
+
+        frame, frame_size = self._current_frame(elapsed)
+
+        row_w = row_h = 0
+        if sub_surf is not None:
+            row_w, row_h = sub_surf.get_width(), sub_surf.get_height()
+        if frame is not None:
+            row_w += frame_size + (IMAGE_GAP if sub_surf is not None else 0)
+            row_h = max(row_h, frame_size)
+
+        total_h = text_surf.get_height()
+        if row_h:
+            total_h += WORD_GAP + row_h
+        top = self.y - total_h // 2
+
+        # A picture-plus-word row is far wider than a bare letter, so keep the
+        # whole group on screen rather than letting it run off the edge.
+        widest = max(text_surf.get_width(), row_w)
+        cx = min(max(self.x, widest // 2 + 8), self.screen_w - widest // 2 - 8)
+        top = min(max(top, 8), self.screen_h - total_h - 8)
+
         text_surf.set_alpha(alpha)
-        rect = text_surf.get_rect(center=(self.x, self.y))
-        surface.blit(text_surf, rect)
+        surface.blit(text_surf, text_surf.get_rect(midtop=(cx, top)))
+
+        if row_h:
+            row_y = top + text_surf.get_height() + WORD_GAP
+            cursor = cx - row_w // 2
+            if frame is not None:
+                sheet, area = frame
+                sheet.set_alpha(alpha)
+                surface.blit(sheet, (cursor, row_y + (row_h - frame_size) // 2), area)
+                cursor += frame_size + (IMAGE_GAP if sub_surf is not None else 0)
+            if sub_surf is not None:
+                surface.blit(sub_surf, (cursor, row_y + (row_h - sub_surf.get_height()) // 2))
+
+    def _current_frame(self, elapsed):
+        """Pick the sprite-sheet frame to show, or (None, 0) if no picture."""
+        if not self.image:
+            return None, 0
+        size = self.image["size"]
+        count = self.image["frames"]
+        step = self.image["frame_ms"]
+        index = 0
+        if count > 1 and step > 0:
+            index = int(elapsed * 1000 / step) % count
+        area = pygame.Rect(index * size, 0, size, size)
+        return (self.image["sheet"], area), size
 
 
 class Stamp:
@@ -430,6 +500,101 @@ def get_desktop_size():
 
 
 # ---------------------------------------------------------------------------
+# Sound loading
+# ---------------------------------------------------------------------------
+def load_sound_cycles(sound_dir):
+    """Load assets/sounds/manifest.json into {key: [(Sound, label), ...]}.
+
+    The list is the cycle a key walks through on repeated presses. `label` is
+    the caption to draw under the big letter, or None to show the letter alone.
+
+    Falls back to the old flat `<key>.wav` layout so the app still makes noise
+    if the sounds have not been regenerated yet.
+    """
+    manifest_path = os.path.join(sound_dir, "manifest.json")
+    cycles = {}
+
+    if os.path.exists(manifest_path):
+        try:
+            with open(manifest_path) as fh:
+                manifest = json.load(fh)
+            for key, entries in manifest.get("keys", {}).items():
+                clips = []
+                for entry in entries:
+                    path = os.path.join(sound_dir, entry["file"])
+                    try:
+                        clips.append((pygame.mixer.Sound(path), entry.get("label")))
+                    except Exception as e:
+                        print(f"Warning: couldn't load {entry['file']}: {e}")
+                if clips:
+                    cycles[key] = clips
+            if cycles:
+                return cycles
+            print("Warning: manifest.json had no loadable clips")
+        except Exception as e:
+            print(f"Warning: couldn't read manifest.json: {e}")
+
+    print("Falling back to flat .wav layout (run generate_sounds.py)")
+    if os.path.isdir(sound_dir):
+        for f in sorted(os.listdir(sound_dir)):
+            if f.endswith(".wav"):
+                try:
+                    cycles[f[:-4]] = [(pygame.mixer.Sound(os.path.join(sound_dir, f)), None)]
+                except Exception as e:
+                    print(f"Warning: couldn't load {f}: {e}")
+    return cycles
+
+
+class ImageLibrary:
+    """Lazily-loaded word pictures backed by sprite sheets.
+
+    Loading all of them up front would cost a few hundred MB of surfaces (an
+    animated sheet is 30 frames of 192px RGBA), so sheets are loaded on first
+    use and the least-recently-used ones are dropped past MAX_CACHED_IMAGES.
+    """
+
+    def __init__(self, image_dir):
+        self.dir = image_dir
+        self.meta = {}
+        self._cache = collections.OrderedDict()
+        manifest_path = os.path.join(image_dir, "manifest.json")
+        if os.path.exists(manifest_path):
+            try:
+                with open(manifest_path) as fh:
+                    self.meta = json.load(fh).get("words", {})
+            except Exception as e:
+                print(f"Warning: couldn't read image manifest: {e}")
+
+    def get(self, word):
+        """Return {sheet, frames, frame_ms, size} for a word, or None."""
+        if not word or word not in self.meta:
+            return None
+        if word in self._cache:
+            self._cache.move_to_end(word)
+            return self._cache[word]
+
+        info = self.meta[word]
+        path = os.path.join(self.dir, info["file"])
+        try:
+            sheet = pygame.image.load(path).convert_alpha()
+        except Exception as e:
+            print(f"Warning: couldn't load image {info['file']}: {e}")
+            self.meta.pop(word, None)
+            return None
+
+        entry = {
+            "sheet": sheet,
+            "frames": info.get("frames", 1),
+            "frame_ms": info.get("frame_ms", 0),
+            "size": info.get("size", sheet.get_height()),
+        }
+        self._cache[word] = entry
+        while len(self._cache) > MAX_CACHED_IMAGES:
+            self._cache.popitem(last=False)
+        return entry
+
+
+# ---------------------------------------------------------------------------
 # Main application
 # ---------------------------------------------------------------------------
 def main():
@@ -478,20 +643,18 @@ def main():
     # Load fonts
     font_large = pygame.font.Font(None, KEY_FONT_SIZE)
     font_small = pygame.font.Font(None, KEY_FONT_SIZE // 2)
+    font_word = pygame.font.Font(None, KEY_WORD_FONT_SIZE)
 
     # Load sounds
     script_dir = os.path.dirname(os.path.abspath(__file__))
     sound_dir = os.path.join(script_dir, "assets", "sounds")
-    sounds = {}
-    if os.path.isdir(sound_dir):
-        for f in os.listdir(sound_dir):
-            if f.endswith(".wav"):
-                name = f[:-4]
-                try:
-                    sounds[name] = pygame.mixer.Sound(os.path.join(sound_dir, f))
-                except Exception as e:
-                    print(f"Warning: couldn't load {f}: {e}")
-    print(f"Loaded {len(sounds)} sound files")
+    sounds = load_sound_cycles(sound_dir)
+    cycle_pos = {}  # key name -> index of the next utterance to play
+    total_clips = sum(len(v) for v in sounds.values())
+    print(f"Loaded {total_clips} clips across {len(sounds)} keys")
+
+    images = ImageLibrary(os.path.join(script_dir, "assets", "images"))
+    print(f"Found {len(images.meta)} word pictures")
 
     # Build key map
     key_map = build_key_map()
@@ -516,11 +679,21 @@ def main():
     signal.signal(signal.SIGTERM, handle_sigterm)
 
     def play_sound(name):
-        if name in sounds:
-            # Find a free channel
-            channel = pygame.mixer.find_channel()
-            if channel:
-                channel.play(sounds[name])
+        """Play the next utterance for `name` and return its on-screen label.
+
+        Repeated presses walk the cycle: letter name -> each sound it makes
+        -> words that start with it -> back to the name.
+        """
+        clips = sounds.get(name)
+        if not clips:
+            return None
+        index = cycle_pos.get(name, 0) % len(clips)
+        cycle_pos[name] = (index + 1) % len(clips)
+        sound, label = clips[index]
+        channel = pygame.mixer.find_channel()
+        if channel:
+            channel.play(sound)
+        return label
 
     while running:
         dt = clock.tick(60) / 1000.0
@@ -557,14 +730,17 @@ def main():
                         sound_name = None
                         display_text = None
 
+                # Play first: the utterance decides what caption to show.
+                label = play_sound(sound_name) if sound_name else None
+
                 if display_text:
-                    kd = KeyDisplay(display_text, desktop_w, desktop_h, font_large, font_small)
+                    kd = KeyDisplay(display_text, desktop_w, desktop_h,
+                                    font_large, font_small,
+                                    font_word=font_word, subtitle=label,
+                                    image=images.get(label))
                     key_displays.append(kd)
                     if len(key_displays) > MAX_KEY_DISPLAYS:
                         key_displays.pop(0)
-
-                if sound_name:
-                    play_sound(sound_name)
 
             elif event.type == pygame.KEYUP:
                 if event.key == pygame.K_ESCAPE:

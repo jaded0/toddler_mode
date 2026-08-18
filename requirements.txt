@@ -1,4 +1,4 @@
+# Runtime dependencies -- everything needed to *play* Toddler Mode.
+# The sound files are committed, so no TTS stack is required to run it.
 pygame>=2.6
 python-xlib>=0.33
-soundfile>=0.13
-kittentts @ https://github.com/KittenML/KittenTTS/releases/download/0.1/kittentts-0.1.0-py3-none-any.whl
